@@ -1,7 +1,14 @@
 # Interpretable NLP model and XAI
 
-## Tools:
+##More specifically the sensitivity of neural NLP models on perturbed input text
+
 <ul type='square'>
-        <li></li>
+        <li><a href=https://arxiv.org/abs/2108.04840><b>Post-hoc Interpretability for Neural NLP:</b> A Survey</a></li>
+        <li><h1> <a href=https://arxiv.org/abs/2107.13955>Demystifying Neural Language Models’ Insensitivity to Word-Order</a></h1>
+        </li>
+        <li><a href=https://arxiv.org/abs/2101.00010>UnNatural Language Inference (UnNLI)</a></li>
+        <li><a href=https://arxiv.org/abs/2101.03453><b>BERT & Family Eat Word Salad:</b> Experiments with Text Understanding</a></li>
+        <li><a href=https://arxiv.org/abs/1909.09595>Visual Analytics for Understanding Self-Attention Networks (SANVis)</a></li>
+        <li><a href=https://arxiv.org/abs/1906.05714> BERTViz: A Multiscale Visualization of Attention in the Transformer Model</a></li>
         <li></li>
 </ul>
